@@ -2,16 +2,6 @@
 - 本项目可以直接部署，快速上线，纯静态无需服务器。基于 UptimeRobot api 时时监控主机、网站、端口等在线状态；  
 - 依赖 github 静态页面，天然支持穿透天朝防火墙，理论上任何暴露于公网的墙外网站和端口服务都可以监控。  
 
-
-## 在线体验：  
-> 之前的短域名 `https://up.java666.cn/` 被回收了，因为 uptimerobot 要对此功能收费。
-完整版：<https://stats.uptimerobot.com/OJRWxTANwN>  
-![](.pic/up.java666.cn.png)  
-
-简化版：<https://java666.cn/uptime-status/>  
-![](.pic/V1.1.png)  
-
-
 ## 如何复用这个项目？  
 1- fork 一份到你的 github 账号下；  
 2- 修改配置文件：config.js，主要是修改 apikey 内容，强烈建议使用 Read-Only key,<https://uptimerobot.com/dashboard#mySettings> 如下图；  
