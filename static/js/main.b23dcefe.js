@@ -7236,8 +7236,8 @@
                             to: "https://uptimerobot.com/",
                             text: "UptimeRobot"
                         })
-                        , " 接口制作，检测频率 5 分钟")
-                    , o.a.createElement("p", null, "本站构建于 2020-04-08"
+                        , " 接口制作，每小时检测服务是否正常工作")
+                    , o.a.createElement("p", null, "构建于 2020-04-08"
                         //     , o.a.createElement(l, {
                         //     to: "https://status.org.cn/",
                         //     text: "STATUS.ORG.CN"
